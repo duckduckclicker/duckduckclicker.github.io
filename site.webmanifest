@@ -1,0 +1,26 @@
+{
+  "name": "Duck Duck Clicker Unblocked",
+  "short_name": "DuckDuckClicker",
+  "description": "Play Duck Duck Clicker Unblocked free online - Fun idle duck tapping and clicker game!",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0b0f19",
+  "theme_color": "#f59e0b",
+  "icons": [
+    {
+      "src": "./images/duck-duck-clicker.png",
+      "sizes": "200x200",
+      "type": "image/png"
+    },
+    {
+      "src": "./favicon.png",
+      "sizes": "200x200",
+      "type": "image/png"
+    },
+    {
+      "src": "./apple-touch-icon.png",
+      "sizes": "200x200",
+      "type": "image/png"
+    }
+  ]
+}
